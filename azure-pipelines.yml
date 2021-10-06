@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  'windows-2022'
+  name: default
 
 
 steps:
